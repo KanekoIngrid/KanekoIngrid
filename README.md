@@ -1,6 +1,6 @@
 ### Hi there, I am Ingrid Kaneko
 
-- 🌱 I’m currently learning C# focused on Front-End
+- 🌱 I’m currently learning JavaScript focused on Front-End
 - 😄 Pronouns: she/her
 
 <div style ="display: inline_block"><br>
