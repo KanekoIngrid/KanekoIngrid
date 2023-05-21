@@ -9,6 +9,8 @@
 	<img align="center" alt="Joao-Vs" height="45" width"55" src="https://cdn-icons-png.flaticon.com/512/921/921594.png" />
 	<img align="center" alt="Joao-Vs" height="45" width"55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 	<img align="center" alt="Joao-Vs" height="45" width"55" src="https://brandslogos.com/wp-content/uploads/images/large/angular-icon-logo.png" />
+	<img align="center" alt="Joao-Vs" height="45" width"55" src="https://git-scm.com/images/logos/downloads/Git-Icon-Black.png" />
+
    	
  </div>
 
