@@ -11,8 +11,9 @@
 	<img align="center" alt="Joao-Vs" height="45" width"55" src="https://brandslogos.com/wp-content/uploads/images/large/angular-icon-logo.png" />
 	<img align="center" alt="Joao-Vs" height="45" width"55" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 
-   	
+  <br>
  </div>
+ 
 
 <a href="https://www.linkedin.com/in/ingridkaneko" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
